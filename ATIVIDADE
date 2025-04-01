@@ -1,0 +1,4 @@
+linkedin let fatec = document.getElementsByClassName("scaffold-layout__sidebar")
+for(let i=0; i < fatec.length; i++){
+        fatec[i].innerHTML="FATEC";
+}
